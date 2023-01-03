@@ -1,6 +1,6 @@
 
 
-Oem (OrigamiKings Enhancement Mod)
+**Oem (OrigamiKings Enhancement Mod)**
 
 This a mod made to enhance the game and my server.
 
@@ -14,10 +14,10 @@ Copper and gold additions
 
 Variants of barrels, bookshelves, ladders, and coming soon chests.
 
-You can download it here 
-https://github.com/OrigamiKing1236/OrigamiKings-Enhancement-Mod
+You can download it here
+(https://github.com/OrigamiKing1236/OrigamiKings-Enhancement-Mod)
 
 
-Instead
+**Instead**
 
 This is my first mod. This mod is put on hold for now.
