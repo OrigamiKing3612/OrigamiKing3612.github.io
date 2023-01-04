@@ -23,15 +23,16 @@ Some things this mod adds are:
 5. More to come
 
 ## Some in-game pictures
-<img width="851" alt="inventory_1" src="https://user-images.githubusercontent.com/115757805/210160699-c984b0f4-4b5d-4b7f-86ec-e97d7a7ac0fb.png">
 <img width="854" alt="inventory_2" src="https://user-images.githubusercontent.com/115757805/210160707-97237606-c2b9-4a08-b353-7d5b59d5bfd2.png">
+<img width="851" alt="inventory_1" src="https://user-images.githubusercontent.com/115757805/210160699-c984b0f4-4b5d-4b7f-86ec-e97d7a7ac0fb.png">
 <img width="851" alt="inventory_3" src="https://user-images.githubusercontent.com/115757805/210160710-e925d575-df36-4e55-90d9-49e8a721dd9d.png">
 <img width="845" alt="stairs" src="https://user-images.githubusercontent.com/115757805/210160717-6108a5e1-7df3-4ddd-901a-03366b7682e4.png">
 
 ## **0.1.3 update** 
 
 ## The Copper Update!
-![Copper_Update](https://user-images.githubusercontent.com/115757805/210614211-5d0b2092-9ec6-4f8f-b320-1823c527b3d4.png)
+![Copper_Update](https://user-images.githubusercontent.com/115757805/210632213-baa09384-6e6b-408b-8fba-2497d3a1b3d5.png)
+
 
 # **Instead**
 
