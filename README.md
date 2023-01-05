@@ -10,7 +10,10 @@ This mod adds a lot of things like:
 3. Copper and gold additions
 4. Variants of barrels, bookshelves, ladders, and coming soon chests.
 
-You can download it [here](https://github.com/OrigamiKing1236/OrigamiKings-Enhancement-Mod).
+
+### Download
+
+You can download OEM [here](https://github.com/OrigamiKing1236/OrigamiKings-Enhancement-Mod).
 
 Oem is a small mod based on enhancing Minecraft
 
@@ -36,3 +39,7 @@ Some things this mod adds are:
 # **Instead**
 
 This is my first mod. This mod is put on hold for now.
+
+### Download
+
+You can download Instead [here](https://github.com/OrigamiKing1236/Instead-Mod)
