@@ -1,5 +1,6 @@
+# My Mods
 
-# **Oem (OrigamiKings Enhancement Mod)**
+## **Oem (OrigamiKings Enhancement Mod)**
 
 This a mod made to enhance the game and my server.
 
@@ -28,7 +29,7 @@ Some things this mod adds are:
 ![Copper_Update](https://user-images.githubusercontent.com/115757805/210632213-baa09384-6e6b-408b-8fba-2497d3a1b3d5.png)
 
 
-# **Instead**
+## **Instead**
 
 This is my first mod. This mod is put on hold for now.
 
