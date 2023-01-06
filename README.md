@@ -1,10 +1,10 @@
-# My Mods
+# OrigamiKings Mods
 
 ## **Oem (OrigamiKings Enhancement Mod)**
 
 This a mod made to enhance the game and my server.
 
-### Download
+### **Download**
 
 You can download OEM [here](https://github.com/OrigamiKing1236/OrigamiKings-Enhancement-Mod).
 
@@ -33,6 +33,6 @@ Some things this mod adds are:
 
 This is my first mod. This mod is put on hold for now.
 
-### Download
+### **Download**
 
 You can download Instead [here](https://github.com/OrigamiKing1236/Instead-Mod)
