@@ -30,9 +30,8 @@ Some things this mod adds are:
 
 
 ## **Instead**
-
-This is my first mod. This mod is put on hold for now.
+This is my first mod and is in the process of a rewrite.
 
 ### **Download**
 
-You can download Instead [here](https://github.com/OrigamiKing1236/Instead-Mod)
+Coming soon
