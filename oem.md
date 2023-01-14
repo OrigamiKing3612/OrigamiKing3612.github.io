@@ -22,8 +22,8 @@ Some things this mod adds are:
 <img width="851" alt="inventory_3" src="https://user-images.githubusercontent.com/115757805/210160710-e925d575-df36-4e55-90d9-49e8a721dd9d.png">
 <img width="845" alt="stairs" src="https://user-images.githubusercontent.com/115757805/210160717-6108a5e1-7df3-4ddd-901a-03366b7682e4.png">
 
-## **0.1.3 update** 
+**0.1.4 update**
 
-## The Copper Update!
-![Copper_Update](https://user-images.githubusercontent.com/115757805/210632213-baa09384-6e6b-408b-8fba-2497d3a1b3d5.png)
+# The Wool Update!
+![Wool Update](https://user-images.githubusercontent.com/115757805/212448757-af449257-c2ed-4da4-8f9f-72f96e01b4c5.png)
 
