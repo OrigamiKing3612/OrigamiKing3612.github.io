@@ -18,11 +18,6 @@ Some things this mod adds are:
 6. Other blocks for my server
 7. More to come
 
-**0.1.4 update**
-
-
-</details
-
 **0.1.5 update**
 
 # The Vertical Slabs Update!
