@@ -1,4 +1,5 @@
-# Windows
+# How to use mods
+## Windows
 1. Make sure you have Java installed
    1. To check if you don’t know go down to the bottom left corner search bar
    2. Type “cmd” and press enter
@@ -16,7 +17,7 @@
 6. Then drag the “mods” folder in this folder in the .minecraft folder. Make sure it is not in a different folder
 7. Then open the launcher and play the fabric installation. If it is not there ask Malachi for help
 8. Then play Minecraft with mods!
-# MacOS
+## MacOS
 1. Make sure you have java installed
    1. To check press Command + space and type terminal then press enter
    2. Type java -version
