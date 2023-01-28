@@ -6,7 +6,7 @@
       1. 
       1. If you get an error then you don’t have java installed ask Origamiking3612 for help or email origamiking@origamiking.net
       2. If it comes back with a version number you have Java installed.
-2. Now that you have Java installed go to https://fabricmc.net/use/installer/ (or use the one in this folder) and download the universal jar
+2. Now that you have Java installed go to https://fabricmc.net/use/installer/ and download the universal jar
 3. When it’s done open it
 4. Then make sure it is the right version 1.19.3 then press install 
 5. Now go to the .minecraft folder
@@ -22,7 +22,7 @@
    2. Type java -version
       1. If you get an error then you don’t have java installed ask Origamiking3612 for help or email origamiking@origamiking.net
       2. If you get a version number then you have Java installed go to step 2
-2. Now that you have Java installed go to https://fabricmc.net/use/installer/ (or use the one in this folder) and download the universal jar
+2. Now that you have Java installed go to https://fabricmc.net/use/installer/ and download the universal jar
 3. When it’s done open it
 4. Then make sure it is the right version 1.19.3 then press install 
 5. Now go to the minecraft folder
