@@ -4,7 +4,6 @@
    1. To check if you don’t know go down to the bottom left corner search bar
    2. Type “cmd” and press enter
    3. Then in the command prompt type “java -version"
-      1. 
       1. If you get an error then you don’t have java installed ask Origamiking3612 for help or email origamiking@origamiking.net
       2. If it comes back with a version number you have Java installed.
 2. Now that you have Java installed go to https://fabricmc.net/use/installer/ and download the universal jar
