@@ -24,9 +24,13 @@ Some things this mod adds are:
 ![update](https://user-images.githubusercontent.com/115757805/213569734-29a6c2df-4e5f-48b1-9447-3f6d78634ebf.png)
 
 # Some in-game pictures
-![inventory_1](https://user-images.githubusercontent.com/115757805/213038218-649a8ee7-0855-48d7-97d2-dfaf86772f17.png)
-![inventory_2](https://user-images.githubusercontent.com/115757805/213038236-045d926f-e3e1-4587-84f2-ee2a93098de3.png)
-![inventory_3](https://user-images.githubusercontent.com/115757805/213038245-b36f5985-46a3-4331-a6e9-cc56a7fbad10.png)
-![inventory_4](https://user-images.githubusercontent.com/115757805/213038255-b4ef17ce-686a-4cfd-8f65-cac9fddeff2f.png)
-![inventory_5](https://user-images.githubusercontent.com/115757805/213038261-5a34e3f6-a1c4-4bd1-a75c-d84eee13514f.png)
-![inventory_6](https://user-images.githubusercontent.com/115757805/213038265-24d4d5d8-9bce-44f0-a681-5bf3533667f1.png)
+<img width="1470" alt="1" src="https://user-images.githubusercontent.com/115757805/219882353-c0b0a10c-dee0-4dbf-92e2-8c3920bbe736.png">
+<img width="1470" alt="2" src="https://user-images.githubusercontent.com/115757805/219882361-3ce2a72c-827c-43dd-b28c-1c3bbd720b9b.png">
+<img width="1470" alt="3" src="https://user-images.githubusercontent.com/115757805/219882371-0a783be2-a495-4935-ad6c-15d6368afbba.png">
+<img width="1470" alt="4" src="https://user-images.githubusercontent.com/115757805/219882372-38082301-582e-4a3d-8a15-c2aec2d80447.png">
+<img width="1470" alt="5" src="https://user-images.githubusercontent.com/115757805/219882374-c604ae7a-04c2-4182-aa5b-1938ba73fc1e.png">
+<img width="1470" alt="7" src="https://user-images.githubusercontent.com/115757805/219882381-25733a8e-6c7b-4fdf-8266-04d0a8165aa1.png">
+<img width="1470" alt="6" src="https://user-images.githubusercontent.com/115757805/219882383-8ad77725-dd68-4e8d-9815-c237637e6f43.png">
+
+<img width="1470" alt="v2" src="https://user-images.githubusercontent.com/115757805/219882417-bc09e799-edfc-41df-8d7b-8fb41d331fce.png">
+<img width="1470" alt="v3" src="https://user-images.githubusercontent.com/115757805/219882418-7d258bd8-f392-4197-b967-13b53331335a.png">
