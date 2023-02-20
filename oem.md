@@ -1,6 +1,8 @@
 
 ## **Oem (OrigamiKings Enhancement Mod)**
 
+**As of 0.6.0 and greater this mod will now require my [API mod](https://github.com/OrigamiKing3612/Origamikings-API)**
+
 This a mod made to enhance the game and my server.
 
 ### **Download**
@@ -18,7 +20,7 @@ Some things this mod adds are:
 6. Other blocks for my server
 7. More to come
 
-**0.1.5 update**
+**0.5.0 update**
 
 # The Vertical Slabs Update!
 ![update](https://user-images.githubusercontent.com/115757805/213569734-29a6c2df-4e5f-48b1-9447-3f6d78634ebf.png)
