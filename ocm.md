@@ -5,10 +5,14 @@ This is a modpack that I recommend for my server and playing Minecraft in genera
 To know how to use go [here](https://mods.origamiking.net/How_to_use_mods.html)
 
 ## Mod list
-[AntiGhost](https://modrinth.com/mod/antighost)\n
-[Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)\n
-[Custom Entity Models](https://modrinth.com/mod/cem)\n
+[AntiGhost](https://modrinth.com/mod/antighost)
+
+[Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)
+
+[Custom Entity Models](https://modrinth.com/mod/cem)
+
 [Chat Signing Hider](https://modrinth.com/mod/chat-signing-hider)
+
 [Cloth Config API](https://modrinth.com/mod/cloth-config)
 [CompleteConfig](https://github.com/Lortseam/completeconfig)
 [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
