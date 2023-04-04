@@ -1,5 +1,5 @@
 # Instead Mod
-This mod is being rewritten and the pre-releases are here on Modrinth. I know this mod has some weird names, so open an issue on my GitHub with a better name for something. (I am open to renaming anything)
+This mod is being rewritten and the pre-releases are here on Modrinth. I know this mod has some weird names, [so open an issue on my GitHub ](https://github.com/OrigamiKing3612/Instead-Mod/issues) with a better name for something. (I am open to renaming anything)
 
 ## Download
 You can download [here](https://modrinth.com/mod/instead-mod)
