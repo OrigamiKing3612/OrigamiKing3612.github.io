@@ -9,11 +9,11 @@
 2. Now that you have Java installed go to [The Fabric Website](https://fabricmc.net/use/installer/) and download the universal jar
 3. When it’s done open it
 4. Then make sure it is the right version 1.19.4 then press install 
-5. Now go to the .minecraft folder
+5. Now go to the `.minecraft` folder
    1. Open file explorer and click the search bar
-   2. Type %appdata% then press enter 
+   2. Type `%appdata%` then press enter 
    3. Open the .minecraft folder
-6. Then drag the “mods” folder in this folder in the .minecraft folder. Make sure it is not in a different folder
+6. Then drag the `mods` folder in this folder in the .minecraft folder. Make sure it is not in a different folder
 7. Then open the launcher and play the fabric installation. If it is not there ask OrigamiKing3612 for help
 8. Then play Minecraft with mods!
 
@@ -21,8 +21,8 @@
 1. Make sure you have java installed
    1. To check press Command + space and type terminal then press enter
    2. Type `java -version`
-      1. If you you get an error then you don’t have java installed ask OrigamiKing3612 for help
-      2. If you get a version number then you have Java installed go to step 2
+      - If you you get an error then you don’t have java installed ask OrigamiKing3612 for help
+      - If you get a version number then you have Java installed go to step 2
 2. Now that you have Java installed go to [The Fabric Website](https://fabricmc.net/use/installer/) and download the universal jar
 3. When it’s done open it
 4. Then make sure it is the right version 1.19.4 then press install 
