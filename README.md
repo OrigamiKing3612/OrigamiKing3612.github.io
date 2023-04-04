@@ -24,8 +24,8 @@ Go [here](./mods/OrigamiKings-API.md) for more details about OrigamiKings-Api.
 This is the modpack that I recommend for my Server and playing Minecraft.
 
 #### **Download**
-You can download the zip file on my [GitHub](https://github.com/OrigamiKing3612/OrigamiKings-Client-Modpack)
-Or if you have a special launcher you can download the `.mrpack` on [Modrinth](https://modrinth.com/modpack/origamikings-client-modpack).
+You can download the zip file on my [GitHub](https://github.com/OrigamiKing3612/OrigamiKings-Client-Modpack),
+or if you have a special launcher you can download the `.mrpack` on [Modrinth](https://modrinth.com/modpack/origamikings-client-modpack).
 
 ## **Instead**
 This is my first mod and is in the process of a rewrite. 
