@@ -4,25 +4,40 @@
 
 This a mod made to enhance the game and my server.
 
-### **Download**
+#### **Download**
 
-You can download OEM [here](https://modrinth.com/mod/origamikings-enhancement-mod).
+You can download OEM on [Modrinth](https://modrinth.com/mod/origamikings-enhancement-mod).
 
-Go to the `oem` page on this website for more details
+Go [here](./mods/OEM.md) for more details about OEM.
 
 ## **OrigamiKings-Api**
 
-This is the API that my mods use
+This is the API that my mods use.
 
-### **Download**
+#### **Download**
 
-You can download OrigamiKings-Api [here](https://modrinth.com/mod/origamikings-api).
+You can download OrigamiKings-Api on [Modrinth](https://modrinth.com/mod/origamikings-api).
 
-Go to the `OrigamiKings-Api` page on this website for more details
+Go [here](./mods/OrigamiKings-API.md) for more details about OrigamiKings-Api.
+
+## OrigamiKings Client Modpack
+This is the modpack that I recommend for my Server and playing Minecraft.
+
+#### **Download**
+You can download the zip file on my [GitHub](https://github.com/OrigamiKing3612/OrigamiKings-Client-Modpack)
+Or if you have a special launcher you can download the `.mrpack` on [Modrinth](https://modrinth.com/modpack/origamikings-client-modpack).
 
 ## **Instead**
-This is my first mod and is in the process of a rewrite. Go to the `Instead` page for more details.
+This is my first mod and is in the process of a rewrite. 
 
-### **Download**
+Go [here](./mods/instead.md) for more details on this mod.
 
-You can download Instead [here](https://modrinth.com/mod/instead-mod)
+#### **Download**
+
+You can download Instead [here](https://modrinth.com/mod/instead-mod).
+
+# Other stuff 
+### How to make mods
+If you want to know how to use a modpack go [here](./other/How_to_use_mods.md)
+
+If you want to make a mod I have a work-in-progress tutorial [here](https://howtomakemods.origamiking.net)
