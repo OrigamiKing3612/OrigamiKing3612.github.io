@@ -20,7 +20,7 @@ You can download OrigamiKings-Api on [Modrinth](https://modrinth.com/mod/origami
 
 Go [here](./mods/OrigamiKings-API.md) for more details about OrigamiKings-Api.
 
-## OrigamiKings Client Modpack
+## **OrigamiKings Client Modpack**
 This is the modpack that I recommend for my Server and playing Minecraft.
 
 #### **Download**
