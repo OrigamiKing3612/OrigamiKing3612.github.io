@@ -3,7 +3,9 @@ This is an API mod that my mods use. This mod will not change gameplay. This mod
  
 
 ## List of mods that use this API/Library Mod
-[OrigamiKings Enhancement Mod](https://modrinth.com/mod/origamikings-enhancement-mod)
+- [OrigamiKings Enhancement Mod](https://modrinth.com/mod/origamikings-enhancement-mod)
+- [OrigamiKings Robotics Armor Mod](https://modrinth.com/mod/origamikings-robotics-armor-mod)
+
 
 ## How to use this API/Library Mod
 ### Add this to your `gradle.properties`
