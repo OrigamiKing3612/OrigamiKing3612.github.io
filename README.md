@@ -52,7 +52,7 @@ If you want to know how to use a modpack go [here](./other/How_to_use_mods.md)
 If you want to make a mod I have a work-in-progress tutorial [here](https://howtomakemods.origamiking.net)
 
 ## **Instead**
-#**I will not be developing this mod anymore. This is still here for archival purposes**
+### **I will not be developing this mod anymore. This is still here for archival purposes**
 
 Go [here](./mods/instead.md) for more details on this mod.
 
