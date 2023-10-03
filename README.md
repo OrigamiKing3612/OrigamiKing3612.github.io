@@ -1,3 +1,5 @@
+# I am kinda done with modding so this mod is archived. I may get back to it one day.
+
 # OrigamiKings Mods
 
 ## **OEM (OrigamiKings Enhancement Mod)**
